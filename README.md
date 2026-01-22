@@ -1,1 +1,3 @@
-# LineageOS_vince
+> Welcome to RenzAlt LineageOS_vince releases!
+
+> "Our system can make your phone look Kawaii"
